@@ -143,4 +143,3 @@ Most of the apps are free so developers should focus on creating free apps to ha
 ## Acknowledgements and Resources
 
 - [Play Store EDA on Kaggle](https://www.kaggle.com/code/tirendazacademy/google-play-store-eda-data-visualization/notebook)
-- [YouTube - Fun with Data Science](https://www.youtube.com/@FUNWITHDATASCIENCE)
